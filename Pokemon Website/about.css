@@ -1,0 +1,26 @@
+.main {
+    background-image: url(https://wallpaperaccess.com/full/3109657.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.about {
+    margin-left: 30px;
+    top: 180px; 
+    margin-right: 1000px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: inherit;
+    text-align: center;
+}
+
+.second {
+    margin-left: -900px;
+    top: 55px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: inherit;
+    text-align: center;
+    position: relative;
+}
+
